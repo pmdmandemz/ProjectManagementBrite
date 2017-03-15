@@ -55,6 +55,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TstCustomer.cs" />
     <Compile Include="TstCustomerCollection.cs" />
+    <Compile Include="tstProduct.cs" />
+    <Compile Include="tstProductCollection.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyClassLib\MyClassLib.csproj">
